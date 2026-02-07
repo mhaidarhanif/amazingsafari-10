@@ -122,6 +122,7 @@ With Auth:
   "price": 120000,
   "stockQuantity": 10,
   "imageUrl": "https://uploadcare.com/images/image.jpg",
+  "description": "...",
   "createdAt": "...",
   "updatedAt": "..."
 }
@@ -136,7 +137,9 @@ Request Body:
   "name": "Tiger Plush",
   "price": 150000,
   "sku": "AZ-TIGER-1",
-  "stockQuantity": 10
+  "stockQuantity": 10,
+  "imageUrl": "https://uploadcare.com/images/image.jpg",
+  "description": "..."
 }
 ```
 
@@ -149,6 +152,8 @@ Response Body:
   "name": "Tiger Plush",
   "price": 150000,
   "sku": "AZ-TIGER-1",
-  "stockQuantity": 10
+  "stockQuantity": 10,
+  "imageUrl": "https://uploadcare.com/images/image.jpg",
+  "description": "..."
 }
 ```
