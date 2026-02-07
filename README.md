@@ -10,6 +10,7 @@
   - General: <https://github.com/mhaidarhanif/amazingsafari-10>
   - Backend API: <https://github.com/mhaidarhanif/amazingsafari-api-10>
   - Frontend Web: <https://github.com/mhaidarhanif/amazingsafari-web-10>
+- Project Management: <https://linear.app/amazingsafari-10>
 
 Inspirations:
 
